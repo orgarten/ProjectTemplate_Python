@@ -14,3 +14,5 @@ Happy Coding!
 * Run ```pytest``` to run testing (after it h
 * Run ```$ tox``` to start automated venv creation + packaging + testing. 
 
+## Contributing
+This is only a small example and certainly far from perfect. I am happy for any feedback!
