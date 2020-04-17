@@ -10,7 +10,7 @@ Happy Coding!
 
 ## Usage
 
-* Run ```$ python setup.py install``` to install the module into the active python installation (virtual environments are highly recommended)
+* Run ```$ python setup.py install``` to install the module under ```src/ProjectTemplate_Python``` into the active python installation (virtual environments are highly recommended)
 * Run ```$ pytest``` to run testing (after it was installed into the environment)
 * Run ```$ tox``` to start automated venv creation + packaging + testing. 
 
