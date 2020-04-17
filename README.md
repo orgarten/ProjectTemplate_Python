@@ -14,5 +14,10 @@ Happy Coding!
 * Run ```$ pytest``` to run testing (after it was installed into the environment)
 * Run ```$ tox``` to start automated venv creation + packaging + testing. 
 
+## TODO
+[ ] Add simple script + docstring
+[ ] auto generate documentation (maybe sphinx(?))
+[ ] create ```examples``` directory to show usage
+
 ## Contributing
 This is only a small example and certainly far from perfect. I am happy for any feedback!
