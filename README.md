@@ -11,7 +11,7 @@ Happy Coding!
 ## Usage
 
 * Run ```$ python setup.py install``` to install the module into the active python installation (virtual environments are highly recommended)
-* Run ```pytest``` to run testing (after it h
+* Run ```pytest``` to run testing (after it was installed into the environment)
 * Run ```$ tox``` to start automated venv creation + packaging + testing. 
 
 ## Contributing
